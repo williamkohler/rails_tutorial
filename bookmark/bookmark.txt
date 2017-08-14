@@ -1,2 +1,3 @@
 bookmarks
-3.5 static pages conclusion
+- 3.5 static pages conclusion
+- 4.2.4 method definitions
