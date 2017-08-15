@@ -1,3 +1,6 @@
 bookmarks
-- 3.5 static pages conclusion
+video:
 - 4.2.4 method definitions
+
+book
+- 4.3.4 CSS revisited
