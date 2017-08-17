@@ -4,8 +4,9 @@ video:
 
 book
 - 5.2 sass and the asset pipeline
+- 6.2 User validations
 
 note:
 complete:
-It’s convenient to use the full_title helper in the tests by 
+It’s convenient to use the full_title helper in the tests by
 including the Application helper into the test helper, as shown in Listing 5.35.
