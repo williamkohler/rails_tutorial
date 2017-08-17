@@ -1,6 +1,6 @@
 bookmarks
 video:
-- 4.2.4 method definitions
+- 5.1.3_partials.mp4
 
 book
-- 4.3.4 CSS revisited
+- 5.2 sass and the asset pipeline
