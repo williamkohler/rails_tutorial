@@ -1,12 +1,6 @@
-bookmarks
+BOOKMARK
 video:
 - 5.1.3_partials.mp4
 
-book
-- 5.2 sass and the asset pipeline
-- 6.2 User validations
-
-note:
-complete:
-It’s convenient to use the full_title helper in the tests by
-including the Application helper into the test helper, as shown in Listing 5.35.
+book:
+- 6.3 Adding a secure password (exercise before)
