@@ -1,6 +1,6 @@
 BOOKMARK
 video:
-- 5.1.3_partials.mp4
+- 6.3 adding a secure password
 
 book:
 - 6.3 Adding a secure password (exercise before)
