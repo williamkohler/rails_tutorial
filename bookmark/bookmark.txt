@@ -1,6 +1,7 @@
 BOOKMARK
 video:
 - 6.3 adding a secure password
+- 6.4 Conclusion
 
 book:
 - 6.3 Adding a secure password (exercise before)
