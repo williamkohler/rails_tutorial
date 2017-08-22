@@ -5,3 +5,4 @@ video:
 
 book:
 - 7.2 signup form
+7.3.4 A test for invalid submission (exercise before)
