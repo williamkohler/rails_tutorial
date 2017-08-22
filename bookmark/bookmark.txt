@@ -4,4 +4,4 @@ video:
 - 6.4 Conclusion
 
 book:
-- 6.3 Adding a secure password (exercise before)
+- 7.2 signup form
