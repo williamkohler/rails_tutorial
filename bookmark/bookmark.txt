@@ -1,7 +1,6 @@
 BOOKMARK
 video:
-- 6.3 adding a secure password
-- 6.4 Conclusion
+- 7.3_unsuccessful_signups
 
 book:
 - 7.2 signup form
