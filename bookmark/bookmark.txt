@@ -1,6 +1,6 @@
 BOOKMARK
 video:
-- 7.3_unsuccessful_signups
+- 7.3.3_signup_error_messages
 
 book:
 - 7.2 signup form
