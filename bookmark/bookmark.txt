@@ -3,4 +3,4 @@ video:
 - 8.1.2_login_form.mp4
 
 book:
-- 9.2 “Remember me” checkbox
+- 9.3.2 Testing the remember branch
