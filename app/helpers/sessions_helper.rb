@@ -1,4 +1,4 @@
-module SessionsHelper
+ module SessionsHelper
 
   # Logs in the given user
   def log_in(user)
@@ -30,6 +30,7 @@ module SessionsHelper
     !current_user.nil?
   end
 
+  # Forgets a persistent session.
   def forget(user)
     user.forget
     cookies.delete(:user_id)
