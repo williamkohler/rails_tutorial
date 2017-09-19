@@ -3,4 +3,4 @@ video:
 - 10.2.3_friendly_forwarding
 
 book:
-- 10.2.3 Friendly forwarding
+- 10.3.5 Partial refactoring
