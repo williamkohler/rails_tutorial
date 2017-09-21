@@ -3,4 +3,4 @@ video:
 - 10.2.3_friendly_forwarding
 
 book:
-- 10.3.5 Partial refactoring
+- 11.2.2 Email previews
