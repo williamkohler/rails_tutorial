@@ -3,4 +3,4 @@ video:
 - 10.2.3_friendly_forwarding
 
 book:
-- 11.2.2 Email previews
+- 11.3.2 Activation edit action
