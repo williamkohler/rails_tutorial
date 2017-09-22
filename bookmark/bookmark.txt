@@ -3,4 +3,4 @@ video:
 - 10.2.3_friendly_forwarding
 
 book:
-- 11.3.3 Activation test and refactoring
+- @ Listing 11.39
