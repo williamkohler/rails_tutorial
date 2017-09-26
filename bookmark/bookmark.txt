@@ -3,4 +3,7 @@ video:
 - 10.4_deleting_users
 
 book:
-- ch 12
+- 12.2 Password reset emails
+
+notes:
+- do ex right before 12.1.2
