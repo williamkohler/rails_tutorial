@@ -3,4 +3,4 @@ video:
 - 10.4_deleting_users
 
 book:
-- 12.3 Resetting the password
+- 12.3.2 Updating the reset
