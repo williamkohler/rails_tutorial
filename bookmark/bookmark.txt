@@ -1,7 +1,6 @@
 BOOKMARK
 video:
-- 10.2.3_friendly_forwarding
-- 10.3_showing_all_users
+- 10.4_deleting_users
 
 book:
 - ch 12
