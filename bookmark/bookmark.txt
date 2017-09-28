@@ -3,4 +3,4 @@ video:
 - 10.4_deleting_users
 
 book:
-- 12.3.2 Updating the reset
+- 12.4 Email in production (take two)
