@@ -5,7 +5,7 @@ class UsersController < ApplicationController
 
   def index
     @users = User.where(activated: true).paginate(page: params[:id])
-    # @users = User.paginate(page: params[:page])
+    @microposts = @user.microposts.paginate(page: params[:page])
   end
 
   def show

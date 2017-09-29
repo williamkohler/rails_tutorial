@@ -3,4 +3,4 @@ video:
 - 10.4_deleting_users
 
 book:
-- 13.1.3 User/Micropost associations
+- exer right before 13.2.2 Sample microposts
