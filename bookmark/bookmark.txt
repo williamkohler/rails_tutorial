@@ -3,4 +3,4 @@ video:
 - 10.4_deleting_users
 
 book:
-- 12.4 Email in production (take two)
+- 13.1.3 User/Micropost associations
