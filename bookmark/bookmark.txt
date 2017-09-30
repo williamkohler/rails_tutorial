@@ -1,6 +1,6 @@
 BOOKMARK
 video:
-- 10.4_deleting_users
+- 11_account_activation
 
 book:
 - exer right before 13.2.2 Sample microposts
