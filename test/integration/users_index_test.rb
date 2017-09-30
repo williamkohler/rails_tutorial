@@ -25,6 +25,11 @@ class UsersIndexTest < ActionDispatch::IntegrationTest
     end
   end
 
+  test "index as non-admin" do
+    log_in_as(@non_admin)
+    assert_select 'a', text: 'delete', count: 0
+  end
+
   # test "index including pagination" do
   #   log_in_as(@user)
   #   get users_path
