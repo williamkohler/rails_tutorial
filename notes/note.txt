@@ -2,3 +2,8 @@ Things to look up:
 
 - virtual attribute
 - method reference (technique)
+- metaprogramming (ruby)
+
+
+questions:
+- does setup get run before each test?

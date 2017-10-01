@@ -1,6 +1,6 @@
 BOOKMARK
 video:
-- 11_account_activation
+- 12_password_reset
 
 book:
-- exer right before 13.2.2 Sample microposts
+- ex: right before 13.2.2 Sample microposts
