@@ -1,0 +1,4 @@
+Things to look up:
+
+- virtual attribute
+- method reference (technique)
