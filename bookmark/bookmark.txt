@@ -3,4 +3,4 @@ video:
 - 11_account_activation
 
 book:
-- exer right before 13.2.2 Sample microposts
+- 13.2.3 Profile micropost tests
