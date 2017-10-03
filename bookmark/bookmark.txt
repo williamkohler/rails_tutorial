@@ -3,4 +3,8 @@ video:
 - 12_password_reset
 
 book:
+<<<<<<< HEAD
 - ex: right before 13.2.2 Sample microposts
+=======
+- 13.2.3 Profile micropost tests
+>>>>>>> user-microposts
