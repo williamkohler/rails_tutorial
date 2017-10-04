@@ -3,4 +3,4 @@ video:
 - 11_account_activation
 
 book:
-- 13.2.3 Profile micropost tests
+- ex before 13.3.3 A proto-feed
