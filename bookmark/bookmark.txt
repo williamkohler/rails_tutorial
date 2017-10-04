@@ -3,4 +3,4 @@ video:
 - 11_account_activation
 
 book:
-- ex before 13.3.3 A proto-feed
+- 13.4 Micropost images
