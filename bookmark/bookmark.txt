@@ -3,4 +3,4 @@ video:
 - 11_account_activation
 
 book:
-- 13.4 Micropost images
+- 13.4.2 Image validation
