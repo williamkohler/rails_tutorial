@@ -1,5 +1,9 @@
 NOTES:
 
 - what are generators?
-- metaprogramming
+- meta-programming
 - virtual attributes
+- validates vs validate
+  - Note the use of validate (as opposed to validates) to call a custom
+    validation.
+-
