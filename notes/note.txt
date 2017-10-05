@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Things to look up:
 
 - virtual attribute
@@ -7,3 +8,14 @@ Things to look up:
 
 questions:
 - does setup get run before each test?
+=======
+NOTES:
+
+- what are generators?
+- meta-programming
+- virtual attributes
+- validates vs validate
+  - Note the use of validate (as opposed to validates) to call a custom
+    validation.
+-
+>>>>>>> user-microposts
