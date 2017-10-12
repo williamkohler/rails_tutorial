@@ -1,8 +1,7 @@
 BOOKMARK
 video:
 - 12_password_reset
+  - (12.2_password_reset_emails)
 
 book:
-- ex: right before 13.2.2 Sample microposts
-- 13.2.3 Profile micropost tests
-- 13.4.4 Image upload in production
+- 14.1.5 Followers

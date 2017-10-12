@@ -3,6 +3,9 @@ Things to look up:
 - virtual attribute
 - method reference (technique)
 - metaprogramming (ruby)
+- add indices to model attributes (virtual attributes)
+- member symbol / method in the routes file
+
 
 
 questions:
@@ -16,4 +19,6 @@ NOTES:
 - validates vs validate
   - Note the use of validate (as opposed to validates) to call a custom
     validation.
--
+- Foreign key
+  - an id used in this manner to connect two database tables
+- << (shovel operator) appends to the end of an array
