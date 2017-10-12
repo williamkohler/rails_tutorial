@@ -5,6 +5,7 @@ Things to look up:
 - metaprogramming (ruby)
 - add indices to model attributes (virtual attributes)
 - member symbol / method in the routes file
+- what does 'integration test' mean?
 
 
 

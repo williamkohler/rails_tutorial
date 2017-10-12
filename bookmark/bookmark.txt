@@ -4,4 +4,4 @@ video:
   - (12.2_password_reset_emails)
 
 book:
-- 14.2.3 Following and followers pages
+- 14.2.4 A working follow button the standard way
