@@ -5,3 +5,4 @@ video:
 
 book:
 - 14.2.5 A working follow button with Ajax
+- 14.2.6 Following tests
