@@ -4,5 +4,4 @@ video:
   - (12.2_password_reset_emails)
 
 book:
-- 14.2.5 A working follow button with Ajax
-- 14.2.6 Following tests
+- 14.3 The status feed

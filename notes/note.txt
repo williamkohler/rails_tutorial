@@ -6,6 +6,7 @@ Things to look up:
 - add indices to model attributes (virtual attributes)
 - member symbol / method in the routes file
 - what does 'integration test' mean?
+- path vs paths (in test)
 
 
 
