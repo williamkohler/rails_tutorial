@@ -5,3 +5,9 @@ video:
 
 book:
 - 14.3 The status feed
+- 14.3.2 A first feed implementation
+- https://www.railstutorial.org/book/following_users
+
+In fact, because this sort of construction is so useful,
+Active Record provides it by default:
+User.first.following_ids
