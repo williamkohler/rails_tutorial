@@ -24,3 +24,18 @@ NOTES:
 - Foreign key
   - an id used in this manner to connect two database tables
 - << (shovel operator) appends to the end of an array
+
+
+IMPORTANT CONCEPTS
+- views
+- controllers
+- templates
+- partials
+- filters
+- validations
+- callbacks
+- has_many/belongs_to
+- has_many :through associations
+- security
+- testing
+- deployment art

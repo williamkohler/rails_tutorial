@@ -1,7 +1,6 @@
 BOOKMARK
 video:
-- 12_password_reset
-  - (12.2_password_reset_emails)
+- 13.1.3_user_micropost_associations.mp4
 
 book:
 - https://www.railstutorial.org/book/following_users
