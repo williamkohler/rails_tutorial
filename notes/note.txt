@@ -7,6 +7,7 @@ Things to look up:
 - member symbol / method in the routes file
 - what does 'integration test' mean?
 - path vs paths (in test)
+- mime type (file type)
 
 
 

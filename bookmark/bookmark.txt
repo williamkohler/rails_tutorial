@@ -1,6 +1,6 @@
 BOOKMARK
 video:
-- 13.2.2_sample_microposts.mp4
+- 13.3.3_a_proto_feed.mp4
 
 book:
 - https://www.railstutorial.org/book/following_users
