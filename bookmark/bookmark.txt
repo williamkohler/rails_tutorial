@@ -1,6 +1,6 @@
 BOOKMARK
 video:
-- 13.3.3_a_proto_feed.mp4
+- 14_following_users
 
 book:
 - https://www.railstutorial.org/book/following_users
